@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: payUbiz
+payUbiz:
+  url: https://test.payu.in/
+  key: XxSjL3
+  Salt: yyUNMrfR
+  paymentPath: _payment
+
+greeting:
+  message: Hello from Micronaut
